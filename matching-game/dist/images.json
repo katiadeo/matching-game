@@ -1,0 +1,21 @@
+[
+  {
+    "category": "bug",
+    "images": [
+      "bug_7.gif",
+      "bug_10.gif",
+      "bug_18.gif"
+    ]
+  },
+  {
+    "category": "cucaracha",
+    "images": [
+      "Cucaracha-512px-1.gif",
+      "Cucaracha-512px-2.gif",
+      "Cucaracha-512px-3.gif",
+      "Cucaracha-512px-4.gif",
+      "Cucaracha-512px-5.gif",
+      "Cucaracha-512px-6.gif"
+    ]
+  }
+]
